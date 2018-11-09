@@ -1,0 +1,30 @@
+{
+  "name": "ipfs-swarm-key-gen",
+  "version": "1.0.0",
+  "description": "ipfs swarm key gen ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zy445566/ipfs-swarm-key-gen.git"
+  },
+  "bin":{
+    "node-ipfs-swarm-key-gen":"./cli.js"
+  },
+  "keywords": [
+    "ipfs",
+    "swarm",
+    "key",
+    "gen",
+    "node",
+    "js"
+  ],
+  "author": "zy445566",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zy445566/ipfs-swarm-key-gen/issues"
+  },
+  "homepage": "https://github.com/zy445566/ipfs-swarm-key-gen#readme"
+}
