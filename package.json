@@ -1,6 +1,6 @@
 {
   "name": "ipfs-swarm-key-gen",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "ipfs swarm key gen ",
   "main": "index.js",
   "scripts": {
